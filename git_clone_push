@@ -1,0 +1,4 @@
+# 1. git clone repo //just clone .git .....
+# 2. then, do git check out will download the file.
+# 3. git add; git commit
+# 4. git push origin branch_new_local:branch_new_remote
